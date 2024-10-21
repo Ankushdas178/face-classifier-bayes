@@ -1,5 +1,9 @@
 ## Image Analysis and Visualization
 
+<a target="_blank" href="https://colab.research.google.com/drive/1V9FQeQEfb01tjHj4JAgF_fe9JNxVRb7g?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This code performs **image analysis and visualization** to compare pixel-level statistics between two sets of facial images: one representing **young adults** and another representing **older adults**. The analysis focuses on calculating and visualizing the **mean pixel values** and **standard deviations** for each set of images, allowing a side-by-side comparison between the two age groups.
 
 ### Steps Performed
@@ -44,4 +48,8 @@ This code performs **image analysis and visualization** to compare pixel-level s
      - **Pixel Means**: Displays the average pixel values for both young and older adults, resulting in a "mean" face for each group.
      - **Pixel Deviations**: Visualizes the variability (standard deviation) of pixel values, using a reversed colormap to highlight differences between the two age groups.
    - The visualizations are shown side-by-side for easy comparison.
+  
+![Unknown-4](https://github.com/user-attachments/assets/53767c0d-7417-4d21-9c94-741c23b9271b)
+![Unknown-5](https://github.com/user-attachments/assets/d0cda07e-ce9c-4aa6-ad78-2ab044b447b9)
+
 
